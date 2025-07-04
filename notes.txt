@@ -1,0 +1,4 @@
+cookie-->hum llog kuch bhi data frontend pe rkh skte hai and jab bhi aap koi request backend pe kroge wo frontend pe save data automatically 
+backendpr chla jaiga
+
+server se connection with the help of cookie is session
